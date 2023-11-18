@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Main-Class: com.ds.Assignement1.Assignement1.Assignement1Application
+
